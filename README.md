@@ -43,7 +43,13 @@ Screenshots included:
 
 ---
 
-Screenshots are available in the `screenshots/` folder.
+### Task 1 Screenshots
+
+![connection s t1](screenshots/connection%20s%20t1.png)
+
+![tasks 1 pl](screenshots/tasks%201%20pl.png)
+
+![task 4 Username created](screenshots/task%204%20Username%20created.png)
 
 ## Task 2: Temporary PDB
 
@@ -52,6 +58,14 @@ Screenshots are available in the `screenshots/` folder.
 * Deleted it completely.
 * 
 Screenshots included.
+
+### Task 2 Screenshots
+
+![tasks 6 pluggable database created](screenshots/tasks%206%20pluggable%20database%20created.png)
+
+![DROP DELETE TASK 8](screenshots/DROP%20DELETE%20TASK%208.png)
+
+![DELETION COMFIRMATION TASKS 9](screenshots/DELETION%20COMFIRMATION%20TASKS%209.png)
 
 ---
 
